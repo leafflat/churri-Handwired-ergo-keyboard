@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/CHURRI-symbols/promicro.kicad_sym")(options "")(descr ""))
+)
