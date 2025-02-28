@@ -1,3 +1,5 @@
+Please note that this was my first keyboard and it is a mess. Only build this if you embrace alot of jank and don't mind making modifications. The only note is the column diagram below is wrong. The left collums are reversed.
+
 Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
 
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)
@@ -28,7 +30,8 @@ For the bottom, heat press the bots into the 6 large holes to catch the bolts to
 Heat press the 12 heat inserts into the body of the keyboard. The breackout boards and Pro Micro can be held down with either doublesided tape or a drop of super glue. You will need to file down 2 of the breakoput boards to fit into place. The tact switch is held in place by super glue. Test the button before glueing as you may need to stretch the hole a bit to make the button easy to press.<br>
 <br>
 Diagram for wiring:<br>
-Diodes should be wired in COL2ROW.<br>
-<br>
+Diodes should be wired in COL2ROW.  
+
+The below image is wrong, the left columns are reversed.
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.jpg)<br>
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.jpg)<br>
