@@ -1,4 +1,4 @@
-Please note that this was my first keyboard and it is a mess. Only build this if you embrace alot of jank and don't mind making modifications. The only note is the column diagram below is wrong. The left collums are reversed.
+Please note that this was my first keyboard and it is a bit of a mess. Only build this if you embrace alot of jank and don't mind making modifications if need be. The only note is the column diagram below is wrong. The left collums are reversed. I made this public again as a few people have asked for the files. Build at your own risk.
 
 Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
 
